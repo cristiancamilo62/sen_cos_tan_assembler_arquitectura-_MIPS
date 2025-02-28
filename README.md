@@ -8,11 +8,11 @@
 
 ## 📜 Descripción
 
-Este repositorio contiene programas en **Assembly MIPS** que calculan funciones trigonométricas utilizando la **Unidad de Punto Flotante (FPU)**. Cada archivo implementa una función específica:
+Este repositorio contiene programas en **Assembly MIPS** que calculan funciones trigonométricas. Cada archivo implementa una función específica:
 
-- `sen.asm` ➝ Calcula el **seno** de un ángulo en radianes.  
-- `cos.asm` ➝ Calcula el **coseno** de un ángulo en radianes.  
-- `tan.asm` ➝ Calcula la **tangente** de un ángulo en radianes.  
+- `sen.asm` ➝ Calcula el **seno** de un ángulo. 
+- `cos.asm` ➝ Calcula el **coseno** de un ángulo.  
+- `tan.asm` ➝ Calcula la **tangente** de un ángulo.  
 
 ## 🚀 Requisitos
 
