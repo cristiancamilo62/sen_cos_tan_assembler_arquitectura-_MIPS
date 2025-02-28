@@ -6,7 +6,8 @@
 Este repositorio contiene la implementación de las funciones trigonométricas sen(x), cos(x) y tan(x) en ensamblador MIPS.
 Se utiliza la Serie de Taylor para aproximaciones matemáticas y el código se ejecuta en el simulador MARS 4.5.
 
-![image](https://github.com/user-attachments/assets/47a9f171-d913-4f53-820c-fc0c49024226)
+![image](https://github.com/user-attachments/assets/c277dc79-d9f2-4fed-ab1e-43ed4050015a)
+
 
 Se utiliza esta serie para calcular el seno y coseno de un ángulo ingresado por el usuario.
 
