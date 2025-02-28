@@ -29,13 +29,9 @@ Para ejecutar los programas, necesitas:
 Si ejecutamos `sen.asm` e ingresamos **π/2 (1.5708 rad)**, el programa imprimirá un resultado cercano a `1.0`.
 ![image](https://github.com/user-attachments/assets/8e995afd-3361-4301-a494-5f60345fcade)
 
-
-## 📂 Estructura del Proyecto
-
-
 ## 📎 ¿Buscas el seno hiperbólico (sinh)? 🤔
 
-Si deseas ver la implementación del **seno hiperbólico (sinh)** en ensamblador MIPS, revisa el siguiente proyecto:  
+Si deseas ver la implementación del **hiperbolicas (sinh)(tanh)(cosh) ** en ensamblador MIPS, revisa el siguiente proyecto:  
 🔗 [Repositorio de sinh.asm](https://github.com/cristiancamilo62/senh_cosh_tanh_assembler_arquitectura-_MIPS)
 
 ## 🤖 Autor
