@@ -1,6 +1,6 @@
 # 🌟 Cálculo de Seno, Coseno y Tangente en Ensamblador MIPS 🌟
 
-¡Bienvenido a este proyecto en **Assembly MIPS**! 🚀 Aquí encontrarás implementaciones en ensamblador para calcular las funciones trigonométricas más utilizadas:
+Este repositorio contiene la implementación de las funciones trigonométricas sen(x), cos(x) y tan(x) en ensamblador MIPS.
 
 ✅ **Seno (sen)**  
 ✅ **Coseno (cos)**  
