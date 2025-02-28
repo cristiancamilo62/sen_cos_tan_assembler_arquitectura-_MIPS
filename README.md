@@ -61,5 +61,3 @@ Creado con ❤️ por **[Cristian Marín](https://github.com/cristianmarin5062)*
 
 ---
 
-### 🔎 **Palabras clave para búsqueda en Google**:  
-*MIPS Assembly seno coseno tangente, cómo calcular seno en ensamblador MIPS, código Assembly MIPS trigonometría, implementación de sen cos tan en MIPS, funciones trigonométricas en ensamblador*  
