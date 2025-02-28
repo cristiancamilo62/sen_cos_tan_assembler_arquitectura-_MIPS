@@ -1,6 +1,78 @@
 # 🌟 Cálculo de Seno, Coseno y Tangente en Ensamblador MIPS 🌟
 
+🚀 Cálculo de funciones trigonométricas en bajo nivel - Arquitectura MIPS
+
+📌 Descripción
 Este repositorio contiene la implementación de las funciones trigonométricas sen(x), cos(x) y tan(x) en ensamblador MIPS.
+Se utiliza la Serie de Taylor para aproximaciones matemáticas y el código se ejecuta en el simulador MARS 4.5.
+sin(x)=x− 
+3!
+x 
+3
+ 
+​
+ + 
+5!
+x 
+5
+ 
+​
+ − 
+7!
+x 
+7
+ 
+​
+ +…
+cos
+⁡
+(
+𝑥
+)
+=
+1
+−
+𝑥
+2
+2
+!
++
+𝑥
+4
+4
+!
+−
+𝑥
+6
+6
+!
++
+…
+cos(x)=1− 
+2!
+x 
+2
+ 
+​
+ + 
+4!
+x 
+4
+ 
+​
+ − 
+6!
+x 
+6
+ 
+​
+ +…
+
+📌 Objetivos del proyecto:
+
+Implementar senh(x), cosh(x) y tanh(x) en ensamblador y arquitectura MIPS.
+Comprender el uso de registros y operaciones en punto flotante.
+
 
 ✅ **Seno (sen)**  
 ✅ **Coseno (cos)**  
